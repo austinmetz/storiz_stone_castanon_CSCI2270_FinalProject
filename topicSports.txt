@@ -1,0 +1,15 @@
+Which team won the world cup in 2014?
+1. Germany
+2. Brazil
+3. England
+1
+Which team won the Super Bowl in 2015?
+1. The Seahawks
+2. The Panthers
+3. The Broncos
+3
+Which team won the Stanly Cup in 2015?
+1. The Blackhawks
+2. The Lightning
+3. The Kings
+1
